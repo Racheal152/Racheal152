@@ -1,5 +1,5 @@
 # Frontend Development Intern 
-I'm currently working at Swypt io as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css 
+<h3 align="center"> I'm currently working at <a href="https://www.swypt.io/" target="_blank">SWYPT</a> as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css </h3>
 
 ## 🌐Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Racheal Kache)
