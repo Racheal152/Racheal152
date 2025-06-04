@@ -1,6 +1,8 @@
 # Frontend Development Intern 
 <h3 align="center"> I'm currently working at <a href="https://www.swypt.io/" target="_blank">SWYPT</a> as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css </h3>
 
+<h3 align="center"> 📫 Email: <a href="mailto:kacheracheal152@gmail.com">kacheracheal152@gmail.com</a></h3>
+
 ## 🌐Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Racheal Kache)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rache29676)
