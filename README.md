@@ -9,13 +9,95 @@
 </p>
 </h3>
 
-## 🌐Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Racheal Kache)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rache29676)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kacheracheal152@gmail.com) 
-
 # 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Racheal152"><img alt="Racheal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Racheal152&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+    </td>
+    <td>
+       <a href="https://github.com/Racheal152"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Racheal152&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    </td>
+    <td>
+      <a align="center" href="https://github.com/Racheal152"><img alt="Racheal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racheal152&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  <tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        </a>
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        </a>
+        <p align="center">HTML5</p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+      </a>
+        <p align="center">CSS</p>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>      
+      <p align="center">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+        </a>
+        <p align="center">Tailwind</p>
+      </p>
+    </td>
+    <td>            
+      <p align="center">
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+      </a>
+        <p align="center">NodeJS</p>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        </a>
+        <p align="center">React</p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📊My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Racheal152&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://nirzak-streak-stats.vercel.app/?user=Racheal152&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Racheal152&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### Dev Quote
