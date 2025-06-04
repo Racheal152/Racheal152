@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Swypt as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css 
+I'm currently working at Swypt io as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css 
 
 
 ## 🌐 Socials:
