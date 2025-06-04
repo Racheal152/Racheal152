@@ -9,7 +9,7 @@
 </p>
 </h3>
 
-# 💻 Tech Stack:
+# 💻My Tech Stack and 📊 GitHub Stats:
 
 <table>
   <tr>
@@ -24,6 +24,7 @@
       <a align="center" href="https://github.com/Racheal152"><img alt="Racheal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racheal152&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   <tr>
+    
   <tr>
     <td>
       <p align="center">
@@ -42,6 +43,7 @@
       </p>
     </td>
   </tr>
+ 
   <tr>
     <td>
       <p align="center">
@@ -51,9 +53,6 @@
         <p align="center">CSS</p>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td>      
       <p align="center">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -62,6 +61,9 @@
         <p align="center">Tailwind</p>
       </p>
     </td>
+  </tr> 
+
+  <tr>
     <td>            
       <p align="center">
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
@@ -70,9 +72,6 @@
         <p align="center">NodeJS</p>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td>
       <p align="center">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -83,7 +82,8 @@
     </td>
   </tr>
 </table>
-# 📊My GitHub Stats:
+
+
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -94,5 +94,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake.svg" />
 </picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
