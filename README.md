@@ -1,9 +1,6 @@
 # Frontend Development Intern 
 I'm currently working at Swypt io as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css 
 
-# My visit Count:
-[![](https://visitcount.itsvg.in/api?id=Racheal152&icon=7&color=10)](https://visitcount.itsvg.in)
-
 ## 🌐Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Racheal Kache)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rache29676)
