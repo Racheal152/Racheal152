@@ -3,6 +3,12 @@
 
 <h3 align="center"> 📫 Email: <a href="mailto:kacheracheal152@gmail.com">kacheracheal152@gmail.com</a></h3>
 
+<h3 align="center">Connect with me: <p>
+<a href="https://x.com/rache29676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/rache29676" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/racheal-kache-486657217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/racheal-kache-486657217/" height="30" width="40" /></a>
+</p>
+</h3>
+
 ## 🌐Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Racheal Kache)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rache29676)
