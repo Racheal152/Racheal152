@@ -1,89 +1,58 @@
-<svg fill="none" viewBox="0 0 800 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand&display=swap');
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient for text -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f78fb3" />
+      <stop offset="50%" stop-color="#f5cd79" />
+      <stop offset="100%" stop-color="#c8d6e5" />
+    </linearGradient>
 
-        * {
-          box-sizing: border-box;
-        }
+    <!-- Text animation -->
+    <style type="text/css"><![CDATA[
+      @keyframes gradientMove {
+        0% { stop-color: #f78fb3; }
+        50% { stop-color: #f5cd79; }
+        100% { stop-color: #f78fb3; }
+      }
+    ]]></style>
+  </defs>
 
-        body {
-          margin: 0;
-        }
+  <!-- Main animated title -->
+  <text x="50%" y="70" text-anchor="middle" font-size="36" font-family="cursive"
+        fill="url(#textGradient)">
+    Frontend Development Intern 💖
+  </text>
 
-        h1 {
-          font-family: 'Pacifico', cursive;
-          font-size: 3.5em;
-          text-align: center;
-          margin: 0.2em 0 0;
-          background: linear-gradient(270deg, #f78fb3, #f5cd79, #c8d6e5, #f78fb3);
-          background-size: 800% 800%;
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          animation: gradientShift 10s ease infinite;
-        }
+  <text x="50%" y="110" text-anchor="middle" font-size="20" font-family="sans-serif" fill="#ff6b81">
+    ✨ Dreaming in Code ✨
+  </text>
 
-        h2 {
-          font-family: 'Quicksand', sans-serif;
-          font-size: 1.2em;
-          text-align: center;
-          color: #ff6b81;
-          margin-top: 0;
-        }
-
-        @keyframes gradientShift {
-          0% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
-        }
-
-        .petal {
-          position: fixed;
-          top: -10%;
-          font-size: 1.5em;
-          pointer-events: none;
-          user-select: none;
-          animation-name: fall, sway;
-          animation-timing-function: linear, ease-in-out;
-          animation-iteration-count: infinite;
-        }
-
-        @keyframes fall {
-          0% { top: -10%; }
-          100% { top: 110%; }
-        }
-
-        @keyframes sway {
-          0%, 100% { transform: translateX(0px); }
-          50% { transform: translateX(40px); }
-        }
-
-        /* Spread petals randomly */
-        .petal:nth-of-type(1) { left: 5%; animation-duration: 12s, 4s; animation-delay: 0s, 0s; }
-        .petal:nth-of-type(2) { left: 15%; animation-duration: 10s, 5s; animation-delay: 1s, 1s; }
-        .petal:nth-of-type(3) { left: 25%; animation-duration: 11s, 4.5s; animation-delay: 2s, 0.5s; }
-        .petal:nth-of-type(4) { left: 35%; animation-duration: 13s, 6s; animation-delay: 1.5s, 1s; }
-        .petal:nth-of-type(5) { left: 50%; animation-duration: 12s, 4s; animation-delay: 0.3s, 0.2s; }
-        .petal:nth-of-type(6) { left: 60%; animation-duration: 14s, 4s; animation-delay: 2s, 1s; }
-        .petal:nth-of-type(7) { left: 70%; animation-duration: 10s, 3s; animation-delay: 1.2s, 0.8s; }
-        .petal:nth-of-type(8) { left: 80%; animation-duration: 13s, 4.5s; animation-delay: 0.8s, 0.5s; }
-        .petal:nth-of-type(9) { left: 90%; animation-duration: 15s, 5s; animation-delay: 1.7s, 1.2s; }
-      </style>
-
-      <h1>Frontend Development Intern 💖</h1>
-      <h2>✨ Dreaming in Code ✨</h2>
-
-      <!-- Rose petals and sparkles -->
-      <div class="petal">🌸</div>
-      <div class="petal">✨</div>
-      <div class="petal">🌸</div>
-      <div class="petal">✨</div>
-      <div class="petal">🌸</div>
-      <div class="petal">✨</div>
-      <div class="petal">🌸</div>
-      <div class="petal">✨</div>
-      <div class="petal">🌸</div>
-    </div>
-  </foreignObject>
+  <!-- Animated falling petals -->
+  <g>
+    <text font-size="24" x="100" y="-20">
+      <animate attributeName="y" values="-20;220" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="x" values="100;140;100" dur="4s" repeatCount="indefinite" />
+      🌸
+    </text>
+    <text font-size="24" x="200" y="-40">
+      <animate attributeName="y" values="-40;220" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="x" values="200;240;200" dur="5s" repeatCount="indefinite" />
+      ✨
+    </text>
+    <text font-size="24" x="300" y="-30">
+      <animate attributeName="y" values="-30;220" dur="11s" repeatCount="indefinite" />
+      <animate attributeName="x" values="300;340;300" dur="4.5s" repeatCount="indefinite" />
+      🌸
+    </text>
+    <text font-size="24" x="400" y="-10">
+      <animate attributeName="y" values="-10;220" dur="13s" repeatCount="indefinite" />
+      <animate attributeName="x" values="400;440;400" dur="6s" repeatCount="indefinite" />
+      ✨
+    </text>
+    <text font-size="24" x="500" y="-15">
+      <animate attributeName="y" values="-15;220" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="x" values="500;540;500" dur="5s" repeatCount="indefinite" />
+      🌸
+    </text>
+  </g>
 </svg>
