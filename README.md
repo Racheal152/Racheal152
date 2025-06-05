@@ -92,3 +92,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake.svg" />
 </picture>
+
+
+<img src="name.svg" width="100%" />
