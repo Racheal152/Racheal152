@@ -1,5 +1,8 @@
 #                                                            Frontend Development Intern 
 
+<img src="name.svg" width="100%" />
+
+
 <h3 align="center"> I'm currently working at <a href="https://www.swypt.io/" target="_blank">SWYPT</a> as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css </h3>
 
 <h3 align="center"> 📫 Email: <a href="mailto:kacheracheal152@gmail.com">kacheracheal152@gmail.com</a></h3>
@@ -92,6 +95,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake.svg" />
 </picture>
-
-
-<img src="name.svg" width="100%" />
