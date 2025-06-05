@@ -46,8 +46,8 @@
             'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans',
             'Droid Sans', 'Helvetica Neue', sans-serif;
           margin: 0;
-          font-size: 4em;
-          font-weight: 900;
+          font-size: 3em;
+          font-weight: 700;
           letter-spacing: -0.05em;
           text-align: center;
           background: linear-gradient(
