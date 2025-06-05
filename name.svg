@@ -29,27 +29,27 @@
 
   <!-- Animated falling petals -->
   <g>
-    <text font-size="24" x="100" y="-20">
+    <text font-size="12" x="100" y="-20">
       <animate attributeName="y" values="-20;220" dur="10s" repeatCount="indefinite" />
       <animate attributeName="x" values="100;140;100" dur="4s" repeatCount="indefinite" />
       🌸
     </text>
-    <text font-size="24" x="200" y="-40">
+    <text font-size="12" x="200" y="-40">
       <animate attributeName="y" values="-40;220" dur="12s" repeatCount="indefinite" />
       <animate attributeName="x" values="200;240;200" dur="5s" repeatCount="indefinite" />
       ✨
     </text>
-    <text font-size="24" x="300" y="-30">
+    <text font-size="12" x="300" y="-30">
       <animate attributeName="y" values="-30;220" dur="11s" repeatCount="indefinite" />
       <animate attributeName="x" values="300;340;300" dur="4.5s" repeatCount="indefinite" />
       🌸
     </text>
-    <text font-size="24" x="400" y="-10">
+    <text font-size="12" x="400" y="-10">
       <animate attributeName="y" values="-10;220" dur="13s" repeatCount="indefinite" />
       <animate attributeName="x" values="400;440;400" dur="6s" repeatCount="indefinite" />
       ✨
     </text>
-    <text font-size="24" x="500" y="-15">
+    <text font-size="12" x="500" y="-15">
       <animate attributeName="y" values="-15;220" dur="12s" repeatCount="indefinite" />
       <animate attributeName="x" values="500;540;500" dur="5s" repeatCount="indefinite" />
       🌸
