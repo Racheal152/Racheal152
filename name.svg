@@ -18,7 +18,7 @@
   </defs>
 
   <!-- Main animated title -->
-  <text x="50%" y="70" text-anchor="middle" font-size="4em" font-family="cursive"
+  <text x="50%" y="70" text-anchor="middle" font-size="2em" font-family="cursive"
         fill="url(#textGradient)">
     Frontend Development Intern 
   </text>
