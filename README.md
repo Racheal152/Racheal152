@@ -1,4 +1,4 @@
-# <h3 align="center">Frontend Development Intern </h3>
+# <h1 align="center">Frontend Development Intern </h1>
 
 <h3 align="center"> I'm currently working at <a href="https://www.swypt.io/" target="_blank">SWYPT</a> as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css </h3>
 
