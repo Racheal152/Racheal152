@@ -1,4 +1,5 @@
 # Frontend Development Intern 
+
 <h3 align="center"> I'm currently working at <a href="https://www.swypt.io/" target="_blank">SWYPT</a> as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css </h3>
 
 <h3 align="center"> 📫 Email: <a href="mailto:kacheracheal152@gmail.com">kacheracheal152@gmail.com</a></h3>
@@ -23,7 +24,7 @@
     <td>
       <a align="center" href="https://github.com/Racheal152"><img alt="Racheal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racheal152&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
-  <tr>
+  </tr>
     
   <tr>
     <td>
@@ -42,9 +43,6 @@
         <p align="center">HTML5</p>
       </p>
     </td>
-  </tr>
- 
-  <tr>
     <td>
       <p align="center">
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
@@ -53,6 +51,9 @@
         <p align="center">CSS</p>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td>      
       <p align="center">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -61,9 +62,6 @@
         <p align="center">Tailwind</p>
       </p>
     </td>
-  </tr> 
-
-  <tr>
     <td>            
       <p align="center">
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
