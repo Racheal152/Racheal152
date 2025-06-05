@@ -48,7 +48,7 @@
           margin: 0;
           font-size: 3em;
           font-weight: 700;
-          letter-spacing: -0.05em;
+          letter-spacing: -0.03em;
           text-align: center;
           background: linear-gradient(
             270deg,
