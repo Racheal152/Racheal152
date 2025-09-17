@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./name.svg" ></h1>
 
-<h3 align="center"> I'm currently working at <a href="https://www.swypt.io/" target="_blank">SWYPT</a> as a Frontend Development Intern<br>Currently learning and Implementing React and Tailwind css </h3>
+<h3 align="center"> I'm currently working at <a href="https://www.swypt.io/" target="_blank">SWYPT</a> as a Frontend Developer<br>Currently learning and Implementing React and Tailwind css </h3>
 
 <h3 align="center"> 📫 Email: <a href="mailto:kacheracheal152@gmail.com">kacheracheal152@gmail.com</a></h3>
 
