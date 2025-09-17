@@ -47,8 +47,8 @@
             'Droid Sans', 'Helvetica Neue', sans-serif;
           margin: 0;
           font-size: 4em;
-          font-weight: 700;
-          letter-spacing: -0.03em;
+          font-weight: 900;
+          letter-spacing: -0.05em;
           text-align: center;
           background: linear-gradient(
             270deg,
