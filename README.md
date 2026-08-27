@@ -1,94 +1,194 @@
-<h1 align="center"><img src="./name.svg" ></h1>
+<div align="center">
 
-<h3 align="center"> I'm currently working at <a href="https://www.swypt.io/" target="_blank">SWYPT</a> as a Frontend Developer<br>Currently learning and Implementing React and Tailwind css </h3>
+<img src="./name.svg" alt="Racheal Kache" width="500"/>
 
-<h3 align="center"> 📫 Email: <a href="mailto:kacheracheal152@gmail.com">kacheracheal152@gmail.com</a></h3>
+<br>
 
-<h3 align="center">Connect with me: <p>
-<a href="https://x.com/rache29676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/rache29676" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/racheal-kache-486657217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/racheal-kache-486657217/" height="30" width="40" /></a>
+### ✨ Software Engineer • Full-Stack Developer • Builder
+
+<p>
+I build modern, practical software that turns ideas into real-world solutions.
+<br>
+Currently exploring <b>full-stack development, AI-powered applications &amp; creative technology.</b>
 </p>
-</h3>
 
-# 💻My Tech Stack and 📊 GitHub Stats:
+<a href="mailto:kacheracheal152@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/racheal-kache-486657217/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/rache29676" target="_blank">
+  <img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Racheal152"><img alt="Racheal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Racheal152&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
-    </td>
-    <td>
-       <a href="https://github.com/Racheal152"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Racheal152&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    </td>
-    <td>
-      <a align="center" href="https://github.com/Racheal152"><img alt="Racheal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racheal152&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-    
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-        </a>
-        <p align="center">JavaScript</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-        </a>
-        <p align="center">HTML5</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-      </a>
-        <p align="center">CSS</p>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td>      
-      <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-        </a>
-        <p align="center">Tailwind</p>
-      </p>
-    </td>
-    <td>            
-      <p align="center">
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-      </a>
-        <p align="center">NodeJS</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-        </a>
-        <p align="center">React</p>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Racheal152/Racheal152/output/github-snake.svg" />
-</picture>
+## 🌸 A little about me
+
+I'm a **Software Engineer** who enjoys creating things from the ground up — from the first idea and interface to the backend, database and deployment.
+
+I love working where **creativity meets technology**, and I'm especially interested in building applications that don't just look good, but actually solve problems.
+
+```text
+💻 Build       →       🧠 Learn       →       ✨ Improve       →       🚀 Ship
+```
+
+I'm currently open to **freelance projects, collaborations, software engineering opportunities and interesting ideas worth building.**
+
+---
+
+## 🩷 My Tech Universe
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+<br><br>
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" />
+
+<br><br>
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,render" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
+`Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Supabase`
+`REST APIs` · `JWT` · `OCR` · `AI/ML` · `Responsive Design`
+
+</div>
+
+---
+
+## 🎀 What I Like Building
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌐 Web Applications
+
+Clean, responsive and intuitive interfaces with modern frontend technologies.
+
+</td>
+<td width="50%">
+
+### ⚙️ Full-Stack Systems
+
+Applications with real functionality, APIs, authentication and databases.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI-Powered Ideas
+
+Exploring OCR, automation, predictive analytics and intelligent applications.
+
+</td>
+<td width="50%">
+
+### 💡 Real-World Solutions
+
+Technology that solves actual problems instead of just being another demo.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💗 Featured Project
+
+<div align="center">
+
+# AivaPay
+
+### *Smart utility management, powered by technology.*
+
+</div>
+
+AivaPay is a **full-stack utility management platform** designed to make household bills and shared expenses easier to manage.
+
+It brings together **bill management, expense splitting, payment verification, OCR, predictive analytics and notifications** in one platform.
+
+### ✨ Built with
+
+`React` `Node.js` `Express` `PostgreSQL` `Tesseract.js` `JWT` `Node-Cron` `Scikit-Learn`
+
+### 🧠 Highlights
+
+* 🏠 Household & member management
+* 💸 Shared expense management
+* 🧾 OCR-based payment verification
+* 📊 Predictive expense analytics
+* 🔔 Automated notifications & reminders
+* 🔐 Secure authentication
+* 🔌 RESTful backend APIs
+* 🗄️ PostgreSQL database architecture
+
+<div align="center">
+
+<a href="https://github.com/Racheal152">
+  <img src="https://img.shields.io/badge/Explore%20my%20repositories-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🌸 GitHub Activity
+
+<div align="center">
+
+### ✨ Building. Learning. Creating.
+
+<br>
+
+<a href="https://github.com/Racheal152">
+  <img src="https://img.shields.io/github/followers/Racheal152?style=for-the-badge&color=ff69b4&labelColor=fff0f6&label=Followers" />
+</a>
+
+<a href="https://github.com/Racheal152?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Racheal152?style=for-the-badge&color=ff69b4&labelColor=fff0f6&label=Stars" />
+</a>
+
+<br><br>
+
+💻 **Software Engineer** &nbsp; • &nbsp; 🎀 **Creative Builder** &nbsp; • &nbsp; 🚀 **Problem Solver**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌷 Thanks for stopping by!
+
+**I don't just want to write code. I want to build things that matter.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Racheal152&label=Profile%20Views&color=FF69B4&style=flat" />
+
+<br><br>
+
+⭐ *Feel free to explore, connect, collaborate or say hi.*
+
+</div>
