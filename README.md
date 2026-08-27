@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./name.svg" alt="Racheal Kache" width="500"/>
+<img src="./name.svg" alt="Software Engineer" width="600"/>
 
 <br>
 
